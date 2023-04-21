@@ -1,0 +1,17 @@
+BAHASA PEMROGRAMAN PYTHON : PENGERTIAN, SEJARAH, KELEBIHAN DAN KEKURANGANNYA.
+
+Penulis : Yuda Adi Saputra.
+Github : https://github.com/Yudaadisaputra
+
+Python adalah salah satu bahasa pemrograman yang dapat melakukan eksekusi sejumlah instruksi multi guna secara langsung (interpretatif) dengan metode orientasi objek. Python adalah bahasa pemrograman yang paling mudah dipahami. Python dibuat oleh programmer Belanda bernama Guido Van Rossum.
+Di era digital segala profesi yang berkaitan dengan teknologi dan komputer dianggap menjanjikan di masa depan, salah satunya adalah programmer. Banyak hal yang bisa Anda ciptakan saat menekuni dunia programmer, seperti software, aplikasi pada smartphone, program GUI, program CLI, Internet of Things, games dan lain-lainnya. Untuk dapat membuat itu semua, seorang programmer harus menguasai bahasa pemrograman.. Ada banyak bahasa pemrograman yang bisa dipelajari, namun banyak yang merekomendasikan Python sebagai salah satu bahasa pemrograman. Mengapa demikian? Banyak yang berasumsi bahwa Python lebih mudah dimengerti dibandingkan bahasa pemrograman lainnya. Informasi selengkapnya akan dipaparkan pada artikel berikut ini.
+
+SEJARAH PENGEMBANGAN PYTHON.
+Python dibuat dan dikembangkan oleh Guido Van Rossum, yaitu seorang programmer yang berasal dari Belanda. Pembuatannya berlangsung di kota Amsterdam, Belanda pada tahun 1990. Pada tahun 1995 Python dikembangkan lagi agar lebih kompatibel oleh Guido Van Rossum. Selanjutnya pada awal tahun 2000, terdapat pembaharuan versi Python hingga mencapai Versi 3 sampai saat ini. Pemilihan nama Python sendiri diambil dari sebuah acara televisi yang lumayan terkenal yang bernama Mothy Python Flying Circus yang merupakan acara sirkus favorit dari Guido van Rossum.
+
+KELEBIHAN DAN KEKURANGAN DALAM PYTHON.
+Banyak orang yang tertarik untuk menggunakan Python karena dianggap mudah untuk dipelajari, sekalipun oleh para pemula. Kode-kode yang ada didalamnya  mudah dibaca dan dapat menjalankan banyak fungsi kompleks dengan mudah karena banyaknya standard library. Pengembangan program pada Python pun dapat dilakukan dengan cepat dan menggunakan lebih sedikit kode. Bahkan Python mampu menjadikan program dengan skala sangat rumit menjadi mudah. Python sendiri mendukung multi platform dan multi system serta memiliki sistem pengelolaan memori otomatis seperti Java.
+
+Sayangnya Python cukup lambat dijalankan. Untuk pengembangan platform Android dan IOS juga terbilang  kurang support. Python juga memiliki keterbatasan dengan akses basis data. Selain itu Python tidak cocok untuk melakukan tugas-tugas intensif memori dan pekerjaan multi-core/ multi-processor.
+
+Demikian sekilas informasi tentang bahasa pemrograman Python yang bisa Anda simak. Bagi pengembang atau programmer pemula sangat disarankan untuk mempelajari bahasa pemrograman tersebut karena dinilai mudah. Python juga dapat diterapkan dalam pembuatan software, aplikasi pada smartphone, program GUI, program CLI, Internet of Things, games dan lain-lainnya. Semoga informasi tadi bermanfaat dan menambah wawasan Anda semua.
